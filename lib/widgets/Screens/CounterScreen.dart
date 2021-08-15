@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:myapp/widgets/Bloc/CounterBlock.dart';
+import 'package:myapp/Bloc/CounterBloc.dart';
 import 'package:myapp/widgets/Components/CounterComponent.dart';
 import 'package:provider/provider.dart';
 
